@@ -1,2 +1,4 @@
 Venus
 Mars
+Earth
+Jupiter
